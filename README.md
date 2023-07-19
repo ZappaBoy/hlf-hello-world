@@ -113,7 +113,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 ```
 
 
-## Download `fabirc-samples`, docker images, and binaries
+## Download `fabric-samples`, docker images, and binaries
 
 Hyperledger crates a useful Hyperledger Fabric Samples repository that you can use to get started working with it, explore important features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. Also, Hyperledger Fabric has some binaries that are required to interact with the network.
 
